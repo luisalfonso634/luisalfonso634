@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on JLL
+- 🔭 I’m currently working on Sustainability Data
 - 🌱 I’m currently learning SALESFORCE, PYTHON, Sustainability
 - 👯 I’m looking to collaborate on Sustainability Projects
 - 🤔 I’m looking for help with ...
